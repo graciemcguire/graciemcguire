@@ -1,9 +1,9 @@
 <h1 align="center"> Hi there, I'm Gracie <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 🤠 </h1>
-* 😄 Pronouns: she/they
-* 🗽 Based: NYC
-* 🔭 Currently working on: SE Curriculum Developer at Flatiron School
-* 🌱 Currently learning: iOS development / Swift
-* 🛹 After hours: Falling off skateboards
+<li> 😄 Pronouns: she/they </li>
+<li> 🗽 Based: NYC </li>
+<li> 🔭 Currently working on: SE Curriculum Developer at Flatiron School </li>
+<li> 🌱 Currently learning: iOS development </li>
+<li> 🛹 After hours: Falling off skateboards </li>
 <!--
 
 **graciemcguire/graciemcguire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
