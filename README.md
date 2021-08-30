@@ -1,24 +1,9 @@
-<h1 align="center"> Hi there, I'm Gracie <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 🤠 </h1>
+<h1 align="center">  🤠  Hi there, I'm Gracie <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 <li> 😄 Pronouns: she/they </li>
 <li> 🗽 Based: NYC </li>
 <li> 🔭 Currently working on: SE Curriculum Developer at Flatiron School </li>
 <li> 🌱 Currently learning: iOS development </li>
 <li> 🛹 After hours: Falling off skateboards </li>
-<!--
-
-**graciemcguire/graciemcguire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=graciemcguire&layout=compact&theme=dark&hide_border=true)
 
@@ -29,3 +14,6 @@ Here are some ideas to get you started:
   <a target="_blank"href="https://www.linkedin.com/in/graciemcguire/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:hello@graciemcguire.com?subject=Hello%20Gracie"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+
+
+
