@@ -5,9 +5,11 @@
 <li> 🌱 Currently learning: iOS development </li>
 <li> 🛹 After hours: Falling off skateboards </li>
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=graciemcguire&layout=compact&theme=dark&hide_border=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=graciemcguire&layout=compact&theme=cobalt&hide_border=true)
 
-![Gracie's Stats](https://github-readme-stats.vercel.app/api?username=graciemcguire&show_icons=true&hide_border=true&theme=dark)
+<!-- ![Gracie's Stats](https://github-readme-stats.vercel.app/api?username=graciemcguire&show_icons=true&hide_border=true&theme=dark) -->
+![Gracie's GitHub stats](https://github-readme-stats.vercel.app/api?username=graciemcguire&count_private=true&show_icons=true&theme=cobalt)
+
 
 <h2 align="center">📫 Reach me on</h2>
 <p align="center">
