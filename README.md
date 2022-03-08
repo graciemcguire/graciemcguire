@@ -3,7 +3,7 @@
      😄 Pronouns: she/they </br>
      🗽 Based: NYC </br>
      🔭 Currently working on: SE Curriculum Developer at Flatiron School </br>
-     🌱 Currently learning: iOS development </br>
+     🌱 Currently learning: Python </br>
      🛹 After hours: falling off skateboards </br>
 </br>
 
