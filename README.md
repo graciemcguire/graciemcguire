@@ -4,7 +4,7 @@
      🗽 Based: NYC </br>
      🔭 Currently working on: SE Curriculum Developer at Flatiron School </br>
      🌱 Currently learning: Python </br>
-     🛹 After hours: falling off skateboards </br>
+     🛹 After hours: falling off skateboards  </br>
 </br>
 
   <h2 align="center">📫 Say hi!</h2>
