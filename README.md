@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>  🤠  Hi there, I'm Gracie <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+  <h1>  🤠  Hi there, I'm Gracie </h1>
      😄 Pronouns: she/they </br>
      🗽 Based: NYC </br>
      🔭 Currently working on: SE Curriculum Developer at Flatiron School </br>
