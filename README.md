@@ -2,7 +2,7 @@
   <h1>  🤠  Hi there, I'm Gracie 👋</h1>
      😄 Pronouns: she/they </br>
      🗽 Based: NYC </br>
-     🔭 Currently working on: SE Curriculum Developer at Flatiron School </br>
+     🔭 Currently working on: Software Engineer II at WP Engine </br>
      🌱 Currently learning: iOS Development </br>  
      🛹 After hours: falling off skateboards  </br>
 </br>
