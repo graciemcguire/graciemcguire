@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>  🤠  Hi there, I'm Gracie 👋</h1>
+  <h1>  😎  Hi there, I'm Gracie 👋</h1>
      😄 Pronouns: she/they </br>
      🗽 Based: NYC </br>
      🔭 Currently working on: Software Engineer II at WP Engine </br>
