@@ -3,7 +3,7 @@
      😎 Pronouns: she/they </br>
      🗽 Based: NYC </br>
      🔭 Currently working on: Software Engineer II at WP Engine </br>
-     🌱 Currently learning: iOS Development </br>  
+     🌱 Currently learning: Vue! </br>  
      🛹 After hours: falling off skateboards  </br>
 </br>
 
