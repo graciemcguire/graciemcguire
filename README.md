@@ -4,7 +4,8 @@
      🗽 Based: NYC </br>
      🔭 Currently working on: Software Engineer II at WP Engine </br>
      🌱 Currently learning: beginning stages of learning Swift! </br>  
-     🛹 After hours: falling off skateboards  </br>
+     🛹 After hours: falling off skateboards, and <a href="https://www.goodreads.com/graciemcguire">readin books!</a>
+     📚  </br>
 </br>
 
   <h2 align="center">📫 Say hi! </h2>
