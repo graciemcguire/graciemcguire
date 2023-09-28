@@ -4,7 +4,7 @@
      🗽 Based: NYC </br>
      🔭 Currently working on: Software Engineer II at WP Engine </br>
      🌱 Currently learning: beginning stages of learning Swift! </br>  
-     🛹 After hours: falling off skateboards
+     🛹 After hours: falling off skateboards & readin books
      📚  </br>
 </br>
 
